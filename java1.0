@@ -1,0 +1,2 @@
+public String n="hello world";
+System.out.println(n);
